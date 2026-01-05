@@ -1,0 +1,1 @@
+# An-lise-da-Desigualdade-de-G-nero-em-Panorama-Global
