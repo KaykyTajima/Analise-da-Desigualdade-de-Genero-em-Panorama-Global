@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter)
-![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow)
 
 Este projeto de Ciência de Dados tem como objetivo investigar e identificar quais fatores melhor explicam os resultados de desigualdade de gênero ao redor do mundo. A análise busca responder o que realmente impulsiona a equidade: seriam fatores econômicos (como o PIB), investimentos públicos (saúde/educação) ou a estrutura legislativa e social?
 
@@ -24,6 +23,14 @@ O projeto integra dados de múltiplas fontes internacionais para criar uma visã
    * **Gender Inequality Index (GII - UNDP):** Mede a perda de desenvolvimento humano devido à desigualdade.
    * **Gender Development Index (GDI - UNDP):** Razão entre o IDH feminino e masculino.
 
+## 💾 Acesso aos Dados
+
+Para reproduzir as análises deste projeto, faça o download dos datasets completos através do link abaixo:
+
+👉 **[Acesse os arquivos no Google Drive](https://drive.google.com/drive/folders/1rIMGIw94rlwS9ibDXtZs1Xyd0Xb3pW0w)**
+
+*Recomenda-se salvar os arquivos na mesma pasta do notebook ou ajustar os caminhos de leitura no código.*
+
 ## 🛠️ Metodologia
 
 O notebook realiza as seguintes etapas de processamento de dados:
@@ -38,8 +45,14 @@ O notebook realiza as seguintes etapas de processamento de dados:
 
 ## 🚀 Tecnologias Utilizadas
 
-* **Linguagem:** Python
+* **Linguagem:** Python 🐍
 * **Bibliotecas:**
     * `pandas` & `numpy` (Manipulação de dados)
     * `matplotlib` & `seaborn` (Visualização)
     * `openpyxl` (Leitura de arquivos Excel)
+
+## 📦 Como Executar
+
+1. Clone este repositório:
+   ```bash
+   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/SEU_USUARIO/NOME_DO_REPO.git)
