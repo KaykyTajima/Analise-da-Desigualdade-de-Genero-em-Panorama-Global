@@ -50,9 +50,3 @@ O notebook realiza as seguintes etapas de processamento de dados:
     * `pandas` & `numpy` (Manipulação de dados)
     * `matplotlib` & `seaborn` (Visualização)
     * `openpyxl` (Leitura de arquivos Excel)
-
-## 📦 Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/SEU_USUARIO/NOME_DO_REPO.git)
